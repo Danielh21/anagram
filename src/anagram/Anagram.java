@@ -17,7 +17,13 @@ public class Anagram {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("HEj");
+        System.out.println("Hey, my name is sonic!");
+        crazy();
+        
+        
     }
     
+    public static void crazy(){
+        System.out.println("I'm super awesome");
+    }
 }
