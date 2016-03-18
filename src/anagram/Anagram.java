@@ -17,10 +17,31 @@ public class Anagram {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hey, my name is sonic!");
-        crazy();
+        hejmeddig();
         
-        
+        System.out.println("HEj");
+    }
+    
+    static void hejmeddig(){
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
+        System.out.println("LALALALALLAlALALLALA");
     }
     
     public static void crazy(){
