@@ -41,7 +41,9 @@ final class StaticWordLibrary extends WordLibrary {
         "beer",        
         "cold",
         "steel",
-        "leaf"
+        "leaf",
+        "bud",
+        "vine"
         
     
     
@@ -53,7 +55,9 @@ final class StaticWordLibrary extends WordLibrary {
          "bere",
          "clod",
          "sleet",
-         "flea"
+         "flea",
+         "dub",
+         "vein"
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
