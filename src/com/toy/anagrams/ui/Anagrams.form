@@ -160,7 +160,7 @@
             <Component class="javax.swing.JButton" name="nextTrial">
               <Properties>
                 <Property name="mnemonic" type="int" value="78"/>
-                <Property name="text" type="java.lang.String" value="Nyt Ord"/>
+                <Property name="text" type="java.lang.String" value="Nyt ord"/>
                 <Property name="toolTipText" type="java.lang.String" value="Fetch a new word."/>
               </Properties>
               <Events>
